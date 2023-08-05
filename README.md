@@ -21,7 +21,7 @@ I'm excited to share my project resources with you:
 - **Circuit Simulation:** Experience a virtual demonstration of the project's circuit operations and interactions.
 ![Screenshot 2023-07-23 151750](https://github.com/melisaoshaini/MopMe-Smart-Robot-Mop/assets/129177431/f22526e6-88d2-49a9-ae27-8ad1238b939e)
 
-- ![AWR](https://github.com/melisaoshaini/MopMe-Smart-Robot-Mop/assets/129177431/378d2331-2302-4c28-a39c-6c24fbf62347)
+
 
 
 
