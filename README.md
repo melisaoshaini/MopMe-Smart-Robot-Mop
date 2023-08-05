@@ -18,6 +18,9 @@ I'm excited to share my project resources with you:
 - **Schematic:** Explore the detailed schematic that underpins the electronics of the project.
 - **PCB Design:** Delve into the custom PCB design meticulously created using Altium Designer.
 - **Circuit Simulation:** Experience a virtual demonstration of the project's circuit operations and interactions.
+![WhatsApp Image 2023-07-23 at 15 25 35](https://github.com/melisaoshaini/MopMe-Smart-Robot-Mop/assets/129177431/62264429-c7bb-4329-b409-3f9359c2e843)
+
+  
 
 This project is the culmination of my pursuit of expertise in professional product design and robotics. It embodies innovation, precision, and user-centric design, and I'm excited to share it with you.
 
