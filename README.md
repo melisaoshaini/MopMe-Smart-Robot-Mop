@@ -11,6 +11,7 @@ Welcome to my personal project repository, where innovation meets expertise in p
 - **Iterative Evolution:** From Arduino Uno prototyping to PCB finalization, each stage refined performance.
 - **Innovative Features:** Features include obstacle avoidance, water spraying in manual mode, and extended battery life.
 - **SolidWorks Craftsmanship:** Employed SolidWorks to design an ergonomic and visually appealing enclosure.
+- ![WhatsApp Image 2023-07-23 at 15 25 35](https://github.com/melisaoshaini/MopMe-Smart-Robot-Mop/assets/129177431/62264429-c7bb-4329-b409-3f9359c2e843)
 
 **Resource Sharing:**
 I'm excited to share my project resources with you:
@@ -18,7 +19,11 @@ I'm excited to share my project resources with you:
 - **Schematic:** Explore the detailed schematic that underpins the electronics of the project.
 - **PCB Design:** Delve into the custom PCB design meticulously created using Altium Designer.
 - **Circuit Simulation:** Experience a virtual demonstration of the project's circuit operations and interactions.
-![WhatsApp Image 2023-07-23 at 15 25 35](https://github.com/melisaoshaini/MopMe-Smart-Robot-Mop/assets/129177431/62264429-c7bb-4329-b409-3f9359c2e843)
+- ![WhatsApp Image 2023-07-24 at 06 06 18](https://github.com/melisaoshaini/MopMe-Smart-Robot-Mop/assets/129177431/341d8636-fb83-413d-ab0e-57773ff3f906)
+- ![AWR](https://github.com/melisaoshaini/MopMe-Smart-Robot-Mop/assets/129177431/378d2331-2302-4c28-a39c-6c24fbf62347)
+
+
+
 
   
 
