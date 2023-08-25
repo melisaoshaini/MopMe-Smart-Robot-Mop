@@ -1,9 +1,9 @@
 # MopMe-Smart-Robot-Mop
-**Project Showcase: Smart Robot Mop**
+## Project Showcase: Smart Robot Mop 
 
 Welcome to my personal project repository, where innovation meets expertise in professional product design and robotics. This project highlights my journey in crafting a smart robot mop, uniting cutting-edge technology with meticulous design.
 
-**Project Highlights:**
+## Project Highlights:
 - **Dual Modes:** Seamlessly switch between manual control and autonomous navigation for versatile cleaning.
 - **ATmega328P Power:** The ATmega328P microcontroller is at the heart of this project, driving intelligent operations.
 - **Custom PCB:** Designed a bespoke PCB using Altium Designer for optimized functionality.
@@ -13,7 +13,7 @@ Welcome to my personal project repository, where innovation meets expertise in p
 - **SolidWorks Craftsmanship:** Employed SolidWorks to design an ergonomic and visually appealing enclosure.
 - ![WhatsApp Image 2023-07-23 at 15 25 35](https://github.com/melisaoshaini/MopMe-Smart-Robot-Mop/assets/129177431/62264429-c7bb-4329-b409-3f9359c2e843)
 
-**Resource Sharing:**
+## Resource Sharing:
 I'm excited to share my project resources with you:
 - **Code:** Access the code that powers the smart robot mop's intelligent functions.
 - **Schematic:** Explore the detailed schematic that underpins the electronics of the project.
