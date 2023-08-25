@@ -1,7 +1,9 @@
 # MopMe-Smart-Robot-Mop
 ## Project Showcase: Smart Robot Mop 
 
-Welcome to my personal project repository, where innovation meets expertise in professional product design and robotics. This project highlights my journey in crafting a smart robot mop, uniting cutting-edge technology with meticulous design.
+Welcome to my personal project repository, where innovation meets expertise in professional product design and robotics. This project highlights my journey in crafting a smart robot mop, uniting cutting-edge
+technology with meticulous design.
+ ![AWR](https://github.com/melisaoshaini/MopMe-Smart-Robot-Mop/assets/129177431/5c68b2dc-f74c-4c3f-b759-005cd83d0212)
 
 ## Project Highlights:
 - **Dual Modes:** Seamlessly switch between manual control and autonomous navigation for versatile cleaning.
